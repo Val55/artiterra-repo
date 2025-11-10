@@ -1,0 +1,5 @@
+{
+  "name": "AI Web Page Builder",
+  "description": "An interactive tool to generate HTML, CSS, and JavaScript for a web page using an AI prompt. Users can describe the desired page, and the AI will generate the code, which can be edited and previewed in real-time.",
+  "requestFramePermissions": []
+}
